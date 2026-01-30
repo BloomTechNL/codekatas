@@ -26,7 +26,6 @@ describe('Gilded Rose Approval', () => {
                 output.push(element.name + ', ' + element.sellIn + ', ' + element.quality);
 
             });
-            console.log();
             gildedRose.updateQuality();
         }
 
