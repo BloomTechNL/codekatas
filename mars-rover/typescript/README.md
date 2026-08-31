@@ -24,5 +24,3 @@ pnpm install
 ```bash
 pnpm test
 ```
-
-You should see a single passing test. The `Rover` class lives in `src/rover.ts` and its tests in `src/rover.spec.ts`.
