@@ -24,3 +24,5 @@ The aim is to maximize your score: as many tests as possible, each one earned by
 Pick your language and follow the setup instructions in its subdirectory:
 
 - [python](python/README.md)
+- [typescript](typescript/README.md)
+- [csharp](csharp/README.md)

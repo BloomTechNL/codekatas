@@ -28,3 +28,5 @@ This kata has more than one axis to apply zero/one/many along — the count of n
 Pick your language and follow the setup instructions in its subdirectory:
 
 - [python](python/README.md)
+- [typescript](typescript/README.md)
+- [csharp](csharp/README.md)
