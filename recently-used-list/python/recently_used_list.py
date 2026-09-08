@@ -1,0 +1,2 @@
+class RecentlyUsedList:
+    pass
